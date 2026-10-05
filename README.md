@@ -20,9 +20,9 @@
 
 ## 👨‍💼 About Me · Sobre mí
 
-**EN** — Architect and BIM Developer with 10+ years of experience in the AECO sector (Architecture, Engineering, Construction & Operations). I bridge the gap between BIM modeling and software development: I build automation tools, C#/.NET plugins for Revit & Navisworks, Python scripts, and BIM–GIS integrations for large-scale infrastructure projects (metro, rail, hydroelectric, airports). Founder of **[AGR Digital Building](https://agrdb.com)**, based in Bogotá, Colombia.
+**EN** — BIM Specialist and BIM Developer with 10+ years of experience in the AECO sector (Architecture, Engineering, Construction & Operations). I bridge the gap between BIM modeling and software development: I build automation tools, C#/.NET plugins for Revit & Navisworks, Python scripts, and BIM–GIS integrations for large-scale infrastructure projects (metro, rail, hydroelectric, airports). Founder of **[AGR Digital Building](https://agrdb.com)**, based in Bogotá, Colombia.
 
-**ES** — Arquitecto y Desarrollador BIM con más de 10 años de experiencia en el sector AECO (Arquitectura, Ingeniería, Construcción y Operaciones). Combino el modelado BIM con el desarrollo de software: construyo herramientas de automatización, plugins C#/.NET para Revit & Navisworks, scripts en Python e integraciones BIM–GIS para proyectos de infraestructura a gran escala (metro, ferroviario, hidroeléctrico, aeropuertos). Fundador de **[AGR Digital Building](https://agrdb.com)**, con sede en Bogotá, Colombia.
+**ES** — Especialista BIM y Desarrollador BIM con más de 10 años de experiencia en el sector AECO (Arquitectura, Ingeniería, Construcción y Operaciones). Combino el modelado BIM con el desarrollo de software: construyo herramientas de automatización, plugins C#/.NET para Revit & Navisworks, scripts en Python e integraciones BIM–GIS para proyectos de infraestructura a gran escala (metro, ferroviario, hidroeléctrico, aeropuertos). Fundador de **[AGR Digital Building](https://agrdb.com)**, con sede en Bogotá, Colombia.
 
 ---
 
@@ -62,20 +62,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AGRDIGITALBUSSINES&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AGRDIGITALBUSSINES&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AGRDIGITALBUSSINES&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🚀 Featured Projects · Proyectos Destacados
+
+### 📦 Open-source repositories · Repositorios públicos
+
+| Repository | EN | ES |
+|---|---|---|
+| **[GenLay](https://github.com/AGRDIGITALBUSSINES/GenLay)** · C#/.NET | AutoCAD plugin that generates sheet layouts automatically from frames drawn in model space: clones a base layout per frame, sets the viewport scale and numbers the sheets. | Plugin de AutoCAD que genera hojas automáticamente a partir de marcos en el modelo: clona un layout base por marco, fija la escala del viewport y numera las hojas. |
+| **[IFC_Auditor](https://github.com/AGRDIGITALBUSSINES/IFC_Auditor)** · Python | Desktop tool that audits IFC models (entities, property sets, orphan elements, unused types, heavy geometry) and writes an optimized IFC file. | Herramienta de escritorio que audita modelos IFC (entidades, PropertySets, elementos huérfanos, tipos sin uso, geometría pesada) y genera un IFC optimizado. |
+| **[Dynamo_scripts](https://github.com/AGRDIGITALBUSSINES/Dynamo_scripts)** · Dynamo | Dynamo graph for Civil 3D that creates alignments from polylines. | Grafo de Dynamo para Civil 3D que crea alineamientos a partir de polilíneas. |
+| **[pyautocad](https://github.com/AGRDIGITALBUSSINES/pyautocad)** · Python | Script that draws layers and blocks in AutoCAD from Python. | Script que dibuja capas y bloques en AutoCAD desde Python. |
 
 ### 🔌 Revit & Navisworks Add-ins (C#/.NET)
 Custom plugins for model auditing, automation of repetitive BIM workflows, batch parameter editing, and clash detection reporting. Built with the Revit API and Navisworks API.
