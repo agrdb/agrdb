@@ -7,9 +7,9 @@
   <p><strong>BIM Specialist · BIM Developer · BIM–GIS Integration</strong></p>
 
   <p>
-    <a href="https://agrdb.com"><img src="https://img.shields.io/badge/agrdb.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+    <a href="https://agrdb.github.io"><img src="https://img.shields.io/badge/agrdb.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/agrdb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:contacto@agrdb.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:andrsrodrguez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://bit.ly/androd_vblog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   </p>
 
@@ -20,9 +20,9 @@
 
 ## 👨‍💼 About Me · Sobre mí
 
-**EN** — BIM Specialist and BIM Developer with 10+ years of experience in the AECO sector (Architecture, Engineering, Construction & Operations). I bridge the gap between BIM modeling and software development: I build automation tools, C#/.NET plugins for Revit & Navisworks, Python scripts, and BIM–GIS integrations for large-scale infrastructure projects (metro, rail, hydroelectric, airports). Founder of **[AGR Digital Building](https://agrdb.com)**, based in Bogotá, Colombia.
+**EN** — BIM Specialist and BIM Developer with 10+ years of experience in the AECO sector (Architecture, Engineering, Construction & Operations). I bridge the gap between BIM modeling and software development: I build automation tools, C#/.NET plugins for Revit & Navisworks, Python scripts, and BIM–GIS integrations for large-scale infrastructure projects (metro, rail, hydroelectric, airports). Founder of **[AGR Digital Building](https://agrdb.github.io)**, based in Bogotá, Colombia.
 
-**ES** — Especialista BIM y Desarrollador BIM con más de 10 años de experiencia en el sector AECO (Arquitectura, Ingeniería, Construcción y Operaciones). Combino el modelado BIM con el desarrollo de software: construyo herramientas de automatización, plugins C#/.NET para Revit & Navisworks, scripts en Python e integraciones BIM–GIS para proyectos de infraestructura a gran escala (metro, ferroviario, hidroeléctrico, aeropuertos). Fundador de **[AGR Digital Building](https://agrdb.com)**, con sede en Bogotá, Colombia.
+**ES** — Especialista BIM y Desarrollador BIM con más de 10 años de experiencia en el sector AECO (Arquitectura, Ingeniería, Construcción y Operaciones). Combino el modelado BIM con el desarrollo de software: construyo herramientas de automatización, plugins C#/.NET para Revit & Navisworks, scripts en Python e integraciones BIM–GIS para proyectos de infraestructura a gran escala (metro, ferroviario, hidroeléctrico, aeropuertos). Fundador de **[AGR Digital Building](https://agrdb.github.io)**, con sede en Bogotá, Colombia.
 
 ---
 
@@ -130,9 +130,9 @@ Self-contained web tools for BIM teams: Kanban/Scrum boards with hours tracking,
 ## 📫 Contact · Contacto
 
 <div align="center">
-  <a href="https://agrdb.com"><img src="https://img.shields.io/badge/🌐_Website-agrdb.com-brightgreen?style=for-the-badge"/></a>
+  <a href="https://agrdb.github.io"><img src="https://img.shields.io/badge/🌐_Website-agrdb.github.io-brightgreen?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/agrdb"><img src="https://img.shields.io/badge/LinkedIn-Andrés_G._Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contacto@agrdb.com"><img src="https://img.shields.io/badge/Email-contacto@agrdb.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:andrsrodrguez@gmail.com"><img src="https://img.shields.io/badge/Email-andrsrodrguez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://bit.ly/androd_vblog"><img src="https://img.shields.io/badge/Blog-BIM_%26_Dev-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </div>
 
