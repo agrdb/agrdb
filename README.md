@@ -1,13 +1,13 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AGRDIGITALBUSSINES/AGRDIGITALBUSSINES/main/header.png" alt="Banner" width="100%"/>
+  <img src="header.png" alt="Banner" width="100%"/>
 
   <h1>Andrés G. Rodríguez · AGR Digital Building</h1>
 
   <p><strong>BIM Specialist · BIM Developer · BIM–GIS Integration</strong></p>
 
   <p>
-    <a href="https://agrdb.github.io"><img src="https://img.shields.io/badge/agrdb.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+    <a href="https://agrdb.dev"><img src="https://img.shields.io/badge/agrdb.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/agrdb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:andrsrodrguez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://bit.ly/androd_vblog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
@@ -20,9 +20,9 @@
 
 ## 👨‍💼 About Me · Sobre mí
 
-**EN** — BIM Specialist and BIM Developer with 10+ years of experience in the AECO sector (Architecture, Engineering, Construction & Operations). I bridge the gap between BIM modeling and software development: I build automation tools, C#/.NET plugins for Revit & Navisworks, Python scripts, and BIM–GIS integrations for large-scale infrastructure projects (metro, rail, hydroelectric, airports). Founder of **[AGR Digital Building](https://agrdb.github.io)**, based in Bogotá, Colombia.
+**EN** — BIM Specialist and BIM Developer with 10+ years of experience in the AECO sector (Architecture, Engineering, Construction & Operations). I bridge the gap between BIM modeling and software development: I build automation tools, C#/.NET plugins for Revit & Navisworks, Python scripts, and BIM–GIS integrations for large-scale infrastructure projects (metro, rail, hydroelectric, airports). Founder of **[AGR Digital Building](https://agrdb.com)**, based in Bogotá, Colombia.
 
-**ES** — Especialista BIM y Desarrollador BIM con más de 10 años de experiencia en el sector AECO (Arquitectura, Ingeniería, Construcción y Operaciones). Combino el modelado BIM con el desarrollo de software: construyo herramientas de automatización, plugins C#/.NET para Revit & Navisworks, scripts en Python e integraciones BIM–GIS para proyectos de infraestructura a gran escala (metro, ferroviario, hidroeléctrico, aeropuertos). Fundador de **[AGR Digital Building](https://agrdb.github.io)**, con sede en Bogotá, Colombia.
+**ES** — Especialista BIM y Desarrollador BIM con más de 10 años de experiencia en el sector AECO (Arquitectura, Ingeniería, Construcción y Operaciones). Combino el modelado BIM con el desarrollo de software: construyo herramientas de automatización, plugins C#/.NET para Revit & Navisworks, scripts en Python e integraciones BIM–GIS para proyectos de infraestructura a gran escala (metro, ferroviario, hidroeléctrico, aeropuertos). Fundador de **[AGR Digital Building](https://agrdb.com)**, con sede en Bogotá, Colombia.
 
 ---
 
@@ -68,10 +68,11 @@
 
 | Repository | EN | ES |
 |---|---|---|
-| **[GenLay](https://github.com/AGRDIGITALBUSSINES/GenLay)** · C#/.NET | AutoCAD plugin that generates sheet layouts automatically from frames drawn in model space: clones a base layout per frame, sets the viewport scale and numbers the sheets. | Plugin de AutoCAD que genera hojas automáticamente a partir de marcos en el modelo: clona un layout base por marco, fija la escala del viewport y numera las hojas. |
-| **[IFC_Auditor](https://github.com/AGRDIGITALBUSSINES/IFC_Auditor)** · Python | Desktop tool that audits IFC models (entities, property sets, orphan elements, unused types, heavy geometry) and writes an optimized IFC file. | Herramienta de escritorio que audita modelos IFC (entidades, PropertySets, elementos huérfanos, tipos sin uso, geometría pesada) y genera un IFC optimizado. |
-| **[Dynamo_scripts](https://github.com/AGRDIGITALBUSSINES/Dynamo_scripts)** · Dynamo | Dynamo graph for Civil 3D that creates alignments from polylines. | Grafo de Dynamo para Civil 3D que crea alineamientos a partir de polilíneas. |
-| **[pyautocad](https://github.com/AGRDIGITALBUSSINES/pyautocad)** · Python | Script that draws layers and blocks in AutoCAD from Python. | Script que dibuja capas y bloques en AutoCAD desde Python. |
+| **[GenLay](https://github.com/agrdb/GenLay)** · C#/.NET | AutoCAD plugin that generates sheet layouts automatically from frames drawn in model space: clones a base layout per frame, sets the viewport scale and numbers the sheets. | Plugin de AutoCAD que genera hojas automáticamente a partir de marcos en el modelo: clona un layout base por marco, fija la escala del viewport y numera las hojas. |
+| **[BlockAlignTool](https://github.com/agrdb/BlockAlignTool)** · C#/.NET | AutoCAD plugin that aligns existing blocks to a polyline or inserts a block at regular intervals along it, rotated to the tangent. | Plugin de AutoCAD que alinea bloques existentes a una polilínea o inserta un bloque a intervalos regulares, rotado según la tangente. |
+| **[IFC_Auditor](https://github.com/agrdb/IFC_Auditor)** · Python | Desktop tool that audits IFC models (entities, property sets, orphan elements, unused types, heavy geometry) and writes an optimized IFC file. | Herramienta de escritorio que audita modelos IFC (entidades, PropertySets, elementos huérfanos, tipos sin uso, geometría pesada) y genera un IFC optimizado. |
+| **[Dynamo_scripts](https://github.com/agrdb/Dynamo_scripts)** · Dynamo | Dynamo graph for Civil 3D that creates alignments from polylines. | Grafo de Dynamo para Civil 3D que crea alineamientos a partir de polilíneas. |
+| **[pyautocad](https://github.com/agrdb/pyautocad)** · Python | Script that draws layers and blocks in AutoCAD from Python. | Script que dibuja capas y bloques en AutoCAD desde Python. |
 
 ### 🔌 Revit & Navisworks Add-ins (C#/.NET)
 Custom plugins for model auditing, automation of repetitive BIM workflows, batch parameter editing, and clash detection reporting. Built with the Revit API and Navisworks API.
@@ -130,9 +131,9 @@ Self-contained web tools for BIM teams: Kanban/Scrum boards with hours tracking,
 ## 📫 Contact · Contacto
 
 <div align="center">
-  <a href="https://agrdb.github.io"><img src="https://img.shields.io/badge/🌐_Website-agrdb.github.io-brightgreen?style=for-the-badge"/></a>
+  <a href="https://agrdb.dev"><img src="https://img.shields.io/badge/🌐_Website-agrdb.dev-brightgreen?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/agrdb"><img src="https://img.shields.io/badge/LinkedIn-Andrés_G._Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:andrsrodrguez@gmail.com"><img src="https://img.shields.io/badge/Email-andrsrodrguez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:andrsrodrguez@gmail.com"><img src="https://img.shields.io/badge/Email-andrsrodrguez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://bit.ly/androd_vblog"><img src="https://img.shields.io/badge/Blog-BIM_%26_Dev-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </div>
 
